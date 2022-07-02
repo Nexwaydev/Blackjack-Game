@@ -1,0 +1,29 @@
+body{
+  background-color: #016f32;
+}
+h1{
+  color: goldenrod;
+  margin-top: 60px;
+}
+p{
+  color: #fff;
+}
+.but{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  margin-top: -40px;
+}
+button{
+  padding: 10px;
+  border: none;
+  color: #016f32;
+  background-color: goldenrod;
+  width: 200px;
+  border-radius: 5px;
+  font-weight: 700;
+  cursor: pointer;
+   margin-bottom: 10px;
+}
